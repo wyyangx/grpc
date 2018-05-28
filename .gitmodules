@@ -31,6 +31,7 @@
 [submodule "third_party/bloaty"]
 	path = third_party/bloaty
 	url = https://github.com/google/bloaty.git
+	branch = master
 [submodule "third_party/abseil-cpp"]
 	path = third_party/abseil-cpp
 	url = https://github.com/abseil/abseil-cpp
